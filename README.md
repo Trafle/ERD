@@ -52,6 +52,6 @@
 - Система документообігу https://fossdoc.com/downloadfree/
 - Сучасний електронний документообіг https://document.online/
 - Електронний сейф для документів. https://www.mayan-edms.com/
-
+- Електронний архів https://edops.com/en/e-archive/
 
 `[1]`: [Індексування документів ключовими словами](http://lib.iitta.gov.ua/166199/1/%D0%86%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%96%D0%B2_%D0%BA%D0%BB%D1%8E%D1%87%D0%BE%D0%B2%D0%B8%D0%BC%D0%B8_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8.pdf) С. 10-11
